@@ -1,7 +1,7 @@
 # Longformer_for_Financial_Sentiment_Analysis
 
 ## Model Overview
-The `Longformer_for_financial_sentiment_analysis` model is a fine-tuned version of the [Longformer](https://huggingface.co/allenai/longformer-base-4096) by Allen AI, fine-tuned for sentiment analysis of financial text. The fine-tuning process used the [Financial PhraseBank](https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10) dataset, a collection of financial news sentences annotated with sentiment.
+The `Longformer_for_financial_sentiment_analysis` model is a fine-tuned version of the [Longformer](https://huggingface.co/allenai/longformer-base-4096) by Allen AI, fine-tuned for sentiment analysis of financial text. The fine-tuning process used the [Financial PhraseBank](https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10) dataset, a collection of financial news sentences annotated with sentiment. The model is available for use [here](https://huggingface.co/SeanD103/Longformer_for_financial_sentiment_analysis)
 
 ## Model Details
 - **Model Name**: SeanD103/Longformer_for_financial_sentiment_analysis
